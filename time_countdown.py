@@ -1,3 +1,5 @@
+# a countdown project(app)
+
 import time 
 
 def countdown(t):

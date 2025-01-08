@@ -14,4 +14,7 @@ for arg in sys.argv[1:]:
         except:
             print('Image cant be converted into JPG')
 
+# test the code by running on your IDE terminal       
+        
+
 

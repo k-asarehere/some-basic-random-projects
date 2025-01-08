@@ -13,3 +13,6 @@ def countdown(t):
 
 countdown_num = int(input('Enter a number to countdown: '))
 countdown(countdown_num)
+
+# test the code by running on your IDE terminal       
+        

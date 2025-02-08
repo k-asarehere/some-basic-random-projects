@@ -1,7 +1,7 @@
-# a basic/simple quiz app 
+# a basic/simple quiz app with 3 question 
 
 # code only runs in terminal 
-
+# 
 
 
 def quiz_questions():

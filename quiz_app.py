@@ -88,9 +88,10 @@ def choose_answers():
 
         
         return calculate_score
-
-results = choose_answers()
-print(F'\nYour score is: {results}/3')
+        
+if __name__ == '__main__': 
+        results = choose_answers()
+        print(F'\nYour score is: {results}/3')
 
 
 

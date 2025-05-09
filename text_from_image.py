@@ -1,3 +1,5 @@
+# extract or read text from an image 
+
 from spire.ocr import *  
 
 try:
